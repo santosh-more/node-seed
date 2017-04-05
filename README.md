@@ -3,20 +3,20 @@
 This is only the template for the node side development.
 This template will help you to start your node project quickly.
 
-Simply clone it with command
+<i><u>Simply clone it with command</u><i>
 
-git clone https://github.com/santosh-more/node-seed
+<code>git clone https://github.com/santosh-more/node-seed</code>
 
 otherwise 
 
-git clone https://github.com/santosh-more/node-seed "name of your node side project"
+<code>git clone https://github.com/santosh-more/node-seed "name of your node side project"</code>
 
 Then run the command
 
-npm install
+<code>npm install</code>
 
 then start the server by command
 
-npm start
+<code>npm start</code>
 
 If there will be any updates,I will definitly pushed it for you.
