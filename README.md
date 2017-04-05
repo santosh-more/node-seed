@@ -11,4 +11,12 @@ otherwise
 
 git clone https://github.com/santosh-more/node-seed "name of your node side project"
 
-If there will be any updates,I will definitly pushed it for you. 
+Then run the command
+
+npm install
+
+then start the server by command
+
+npm start
+
+If there will be any updates,I will definitly pushed it for you.
