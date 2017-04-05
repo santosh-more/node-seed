@@ -3,7 +3,7 @@
 This is only the template for the node side development.
 This template will help you to start your node project quickly.
 
-<i><u>Simply clone it with command</u><i>
+<i><u>Simply clone it with command</u></i>
 
 <code>git clone https://github.com/santosh-more/node-seed</code>
 
