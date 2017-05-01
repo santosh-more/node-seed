@@ -9,10 +9,12 @@
   "author": "Santosh More",
   "license": "ISC",
   "devDependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2"
-  },
-   "devDependencies": {
     "passport": "^0.3.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7",
+    "mysql": "^2.13.0"
   }
 }

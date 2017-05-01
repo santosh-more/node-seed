@@ -1,7 +1,7 @@
 //packages
 var express = require("express");
 var bodyparser = require("body-parser");
-
+var controller = require("./controller/controller.js");
 //files
 
 var app = express();
@@ -20,7 +20,6 @@ app.use("/*", function(req, res, next) {
 
 //routes
 app.all("/*", require("./routes/route"));
-
 app.listen(port, function() {
     console.log("Server listening on the port" + port);
 });
